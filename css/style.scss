@@ -1,0 +1,19 @@
+@import './variables';
+@import './base';
+@import './header';
+@import './destination';
+@import './offer';
+@import './blog';
+@import './book';
+@import './footer';
+.wrapper{
+    max-width: 1920px;
+    margin: 0 auto;
+}
+.container{
+    max-width: 157.5rem;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 15px;
+   
+}
